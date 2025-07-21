@@ -12,7 +12,7 @@
 - **DevCrafter:** Web app generator with live preview using TypeScript + WebContainers  
 
 💼 **Experience:**  
-- **Full Stack Intern @ Rishishwar Logistics (May–July 2025):**  
+- **Full Stack Intern @ Rishishwar Industries (May–July 2025):**  
   Built secure multi-role APIs, real-time dashboards & eKYC with Razorpay  
 - **Cybersecurity Intern @ IIT Bombay (2023):**  
   Hands-on with system vulnerabilities & e-commerce audits  
