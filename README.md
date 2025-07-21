@@ -1,12 +1,21 @@
+### 👋 Hi, I’m Abhishek Jain (@aj2980)
 
+🎓 Final Year IT Undergrad at MITS Gwalior  
+🧠 Passionate about Full Stack Development, AI/ML, and Cybersecurity  
 
-- 👋 Hi, I’m @aj2980
-- 👀 I’m have hands-on experience in Full stack development, AIML, Cyber security and Programming(**c++,python,javascript**).
-- 🌱 I’m currently learning TypeScript, .NET  and Angular to enhance my professional skills.
-- 💞️ I’m looking to collaborate on projects related to MERN Stack , AI and machine learning, especially those that have a positive social impact.
-- 📫 How to reach me: jainabhishek624@gmail.com
-- 😄 Pronouns: He
-<!---
-aj2980/aj2980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 **Tech Stack:**  
+`MERN` • `TypeScript` • `C++` • `Python` • `SQL` • `Node.js` • `React` • `MongoDB` • `Express` • `Angular`
+
+🛠️ **What I've Built:**  
+- **AI IDE (Code-Sphere):** Multi-language IDE with real-time AI suggestions using Gemini API  
+- **Voice Railway Booking:** Voice-controlled ticketing system using Node.js & Annyang.js  
+- **DevCrafter:** Web app generator with live preview using TypeScript + WebContainers  
+
+💼 **Experience:**  
+- **Full Stack Intern @ Rishishwar Logistics (May–July 2025):**  
+  Built secure multi-role APIs, real-time dashboards & eKYC with Razorpay  
+- **Cybersecurity Intern @ IIT Bombay (2023):**  
+  Hands-on with system vulnerabilities & e-commerce audits  
+
+🤝 Open to collaborating on impactful projects in MERN, AI, and Web Development  
+📫 Reach me: jainabhishek624@gmail.com  
