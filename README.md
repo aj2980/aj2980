@@ -9,7 +9,7 @@
 ### **Full Stack Developer Intern** — *Rishishwar*  
 **May – July 2025 | Hybrid**  
 - Built **secure RESTful APIs** with *TypeScript & Express*, implementing **JWT authentication** for multi-role access  
-- Integrated **Razorpay** for seamless **digital payments & eKYC**  
+- Integrated **Stripe** for seamless **digital payments & eKYC**  
 - Developed **React dashboards** with **real-time data sync**, **lazy loading**, and **optimized database logic**  
 - Collaborated in an **agile team**, ensuring **scalable architecture** and clean **code reviews**
 
