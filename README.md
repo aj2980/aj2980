@@ -4,6 +4,15 @@
 
 🔧 **Tech Stack:**  
 `MERN` • `TypeScript` • `C++` • `Python` • `SQL` • `Node.js` • `React` • `MongoDB` • `Express` • `Web Containers`
+## 💼 Experience
+
+### **Full Stack Developer Intern** — *Rishishwar*  
+**May – July 2025 | Hybrid**  
+- Built **secure RESTful APIs** with *TypeScript & Express*, implementing **JWT authentication** for multi-role access  
+- Integrated **Razorpay** for seamless **digital payments & eKYC**  
+- Developed **React dashboards** with **real-time data sync**, **lazy loading**, and **optimized database logic**  
+- Collaborated in an **agile team**, ensuring **scalable architecture** and clean **code reviews**
+
 
 ## 🛠️ Projects
 
@@ -26,14 +35,6 @@ A **voice-controlled railway booking system** that lets users **search, book, an
 An **AI-powered web app generator** with **live preview** and instant deployment capabilities.
 
 
-## 💼 Experience
-
-### **Full Stack Developer Intern** — *Rishishwar Industry Pvt. Ltd.*  
-**May – July 2025 | Hybrid**  
-- Built **secure RESTful APIs** with *TypeScript & Express*, implementing **JWT authentication** for multi-role access  
-- Integrated **Razorpay** for seamless **digital payments & eKYC**  
-- Developed **React dashboards** with **real-time data sync**, **lazy loading**, and **optimized database logic**  
-- Collaborated in an **agile team**, ensuring **scalable architecture** and clean **code reviews**
 
 
 🤝 Open to collaborating on impactful projects in MERN, AI, and Web Development  
